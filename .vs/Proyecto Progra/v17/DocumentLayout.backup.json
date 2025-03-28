@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\prueba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|c:\\users\\user\\source\\repos\\prueba\\winformsapp1\\frmasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|solutionrelative:winformsapp1\\frmasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|c:\\users\\user\\source\\repos\\prueba\\winformsapp1\\frmasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|solutionrelative:winformsapp1\\frmasignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|c:\\users\\user\\source\\repos\\prueba\\winformsapp1\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|solutionrelative:winformsapp1\\frmusuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942A3233-F09E-42C5-83BD-D4088CC26668}|Capa_Logica\\Capa_Logica.csproj|c:\\users\\user\\source\\repos\\prueba\\capa_logica\\l_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942A3233-F09E-42C5-83BD-D4088CC26668}|Capa_Logica\\Capa_Logica.csproj|solutionrelative:capa_logica\\l_usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|c:\\users\\user\\source\\repos\\prueba\\winformsapp1\\frmasignaciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|solutionrelative:winformsapp1\\frmasignaciones.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3553DC7-A5C8-4D18-80D5-75C28ED4AE81}|Capa_Datos\\Capa_Datos.csproj|c:\\users\\user\\source\\repos\\prueba\\capa_datos\\d_asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3553DC7-A5C8-4D18-80D5-75C28ED4AE81}|Capa_Datos\\Capa_Datos.csproj|solutionrelative:capa_datos\\d_asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{942A3233-F09E-42C5-83BD-D4088CC26668}|Capa_Logica\\Capa_Logica.csproj|c:\\users\\user\\source\\repos\\prueba\\capa_logica\\l_asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{942A3233-F09E-42C5-83BD-D4088CC26668}|Capa_Logica\\Capa_Logica.csproj|solutionrelative:capa_logica\\l_asignaciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3553DC7-A5C8-4D18-80D5-75C28ED4AE81}|Capa_Datos\\Capa_Datos.csproj|c:\\users\\user\\source\\repos\\prueba\\capa_datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3553DC7-A5C8-4D18-80D5-75C28ED4AE81}|Capa_Datos\\Capa_Datos.csproj|solutionrelative:capa_datos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|c:\\users\\user\\source\\repos\\prueba\\winformsapp1\\capa_presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44BA2AC6-9889-481B-89DC-64031C5778AE}|WinFormsApp1\\Capa_Presentacion.csproj|solutionrelative:winformsapp1\\capa_presentacion.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmAsignaciones.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\FrmAsignaciones.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmAsignaciones.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\FrmAsignaciones.cs [Dise\u00F1o]",
+              "RelativeToolTip": "WinFormsApp1\\FrmAsignaciones.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:44:11.278Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUsuarios.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\FrmUsuarios.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmUsuarios.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\FrmUsuarios.cs",
+              "RelativeToolTip": "WinFormsApp1\\FrmUsuarios.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:39:43.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "L_Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\Capa_Logica\\L_Usuarios.cs",
+              "RelativeDocumentMoniker": "Capa_Logica\\L_Usuarios.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\Capa_Logica\\L_Usuarios.cs",
+              "RelativeToolTip": "Capa_Logica\\L_Usuarios.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:39:36.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmAsignaciones.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\FrmAsignaciones.Designer.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmAsignaciones.Designer.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\FrmAsignaciones.Designer.cs",
+              "RelativeToolTip": "WinFormsApp1\\FrmAsignaciones.Designer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAIwKoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:18:17.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmAsignaciones.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\FrmAsignaciones.cs",
+              "RelativeDocumentMoniker": "WinFormsApp1\\FrmAsignaciones.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\FrmAsignaciones.cs",
+              "RelativeToolTip": "WinFormsApp1\\FrmAsignaciones.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:15:45.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "L_Asignaciones.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\Capa_Logica\\L_Asignaciones.cs",
+              "RelativeDocumentMoniker": "Capa_Logica\\L_Asignaciones.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\Capa_Logica\\L_Asignaciones.cs",
+              "RelativeToolTip": "Capa_Logica\\L_Asignaciones.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:11:51.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "D_Asignaciones.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\Capa_Datos\\D_Asignaciones.cs",
+              "RelativeDocumentMoniker": "Capa_Datos\\D_Asignaciones.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\Capa_Datos\\D_Asignaciones.cs",
+              "RelativeToolTip": "Capa_Datos\\D_Asignaciones.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T06:14:35.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Capa_Presentacion.csproj",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\Capa_Presentacion.csproj",
+              "RelativeDocumentMoniker": "WinFormsApp1\\Capa_Presentacion.csproj",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\WinFormsApp1\\Capa_Presentacion.csproj",
+              "RelativeToolTip": "WinFormsApp1\\Capa_Presentacion.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-28T05:07:29.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\prueba\\Capa_Datos\\Conexion.cs",
+              "RelativeDocumentMoniker": "Capa_Datos\\Conexion.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\prueba\\Capa_Datos\\Conexion.cs",
+              "RelativeToolTip": "Capa_Datos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T04:21:08.117Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

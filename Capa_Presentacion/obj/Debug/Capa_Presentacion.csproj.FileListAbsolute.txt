@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\prueba\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\prueba\Capa_Presentacion\obj\Debug\Capa_Presentacion.FrmLogin.resources
+C:\Users\user\source\repos\prueba\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.GenerateResource.cache
+C:\Users\user\source\repos\prueba\Capa_Presentacion\obj\Debug\Capa_Presentacion.csproj.CoreCompileInputs.cache

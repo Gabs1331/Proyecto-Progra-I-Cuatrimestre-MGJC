@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\prueba\Capa_Datos\bin\Debug\net8.0\Capa_Datos.deps.json
+C:\Users\user\source\repos\prueba\Capa_Datos\bin\Debug\net8.0\Capa_Datos.dll
+C:\Users\user\source\repos\prueba\Capa_Datos\bin\Debug\net8.0\Capa_Datos.pdb
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.AssemblyInfo.cs
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.dll
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\refint\Capa_Datos.dll
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.pdb
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\ref\Capa_Datos.dll
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.Properties.Resources.resources
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net8.0\Capa_Datos.csproj.GenerateResource.cache

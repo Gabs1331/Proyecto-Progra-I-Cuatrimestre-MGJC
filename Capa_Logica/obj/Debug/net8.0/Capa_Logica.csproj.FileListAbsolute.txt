@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\Capa_Logica.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\Capa_Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\Capa_Logica.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\Capa_Logica.AssemblyInfo.cs
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\Capa_Logica.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\prueba\Capa_Logica\bin\Debug\net8.0\Capa_Logica.deps.json
+C:\Users\user\source\repos\prueba\Capa_Logica\bin\Debug\net8.0\Capa_Logica.dll
+C:\Users\user\source\repos\prueba\Capa_Logica\bin\Debug\net8.0\Capa_Logica.pdb
+C:\Users\user\source\repos\prueba\Capa_Logica\bin\Debug\net8.0\Capa_Datos.dll
+C:\Users\user\source\repos\prueba\Capa_Logica\bin\Debug\net8.0\Capa_Datos.pdb
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\Capa_Log.4C98AF80.Up2Date
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\Capa_Logica.dll
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\refint\Capa_Logica.dll
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\Capa_Logica.pdb
+C:\Users\user\source\repos\prueba\Capa_Logica\obj\Debug\net8.0\ref\Capa_Logica.dll

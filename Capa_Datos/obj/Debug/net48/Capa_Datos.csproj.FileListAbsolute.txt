@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net48\Capa_Datos.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net48\Capa_Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net48\Capa_Datos.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net48\Capa_Datos.AssemblyInfo.cs
+C:\Users\user\source\repos\prueba\Capa_Datos\obj\Debug\net48\Capa_Datos.csproj.CoreCompileInputs.cache
